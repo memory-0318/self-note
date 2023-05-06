@@ -9,6 +9,8 @@ enableEmoji = true
 
 title = 'Trace of life & work'
 
+useFaviconGenerator = false
+
 [menu]
 [[menu.main]]
 identifier = "home"
