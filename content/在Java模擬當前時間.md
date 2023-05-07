@@ -7,10 +7,6 @@ description: "如何在Java中模擬特定時間?"
 header_img: "pexels-clock.jpg"
 draft: false
 toc: "true"
-categories: [
-    "themes",
-    "syntax",
-]
 ---
 
 ## 需求
