@@ -12,7 +12,7 @@ toc: "true"
 ## Why
 
 - 在stackoverflow找了很多在Hugo的文章中加入圖片的解法, 比較常見的做法是將圖片放在Hugo目錄結構中的`static`目錄,
-  但部署到Github就是無法成功顯示圖片內容, 試了一下才發現需要加上repo的名稱, 只要將repo名稱加入image所在路徑中即可
+  但部署到Github就是無法成功顯示圖片內容, 試了一下才發現只需要在image path加上repo的名稱, 只要將repo名稱加入image所在路徑中即可
 
 ## How-to
 
