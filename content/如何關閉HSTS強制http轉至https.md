@@ -15,7 +15,7 @@ toc: "true"
 ## How-to
 - 開啟Edge, 在網址列輸入`edge://net-internals/#hsts`.
 - 在Delete domain security policies中輸入localhost, 再按下Delete即可.
-![delete-localhost-in-edge](/static/delete-localhost-in-edge.png)
+![delete-localhost-in-edge](/delete-localhost-in-edge.png)
 
 ## Ref.
 - [開發網站時被 HSTS 強制轉至 HTTPS 造成無法啟動開發中網站](https://blog.poychang.net/visual-studio-website-is-redirecting-http-to-https-when-debugging/)
