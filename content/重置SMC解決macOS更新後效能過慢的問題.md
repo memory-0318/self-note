@@ -1,5 +1,5 @@
 ---
-date: 2023-10-10T22:08:10+08:00
+date: 2023-10-10T08:10:00+08:00
 title: "重置SMC解決macOS更新後效能過慢的問題"
 tags: [ "macOS" ]
 author: "Brian Su"
