@@ -1,6 +1,6 @@
 ---
 title: "About me"
-description: "Little engineer in the biggest chip menufacturer of the world..."
+description: "Little engineer in the biggest chip manufacturer of the world..."
 date: "2019-02-28"
 aliases: ["about-me", "contact"]
 author: "Brian Su"
